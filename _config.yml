@@ -89,8 +89,11 @@ links:
 
 
 #### Comment
-duoshuo_shortname:   ## e.g. wuchong   your duoshuo short name.
-disqus_shortname: www-patpat-site  ## e.g. wuchong   your disqus short name.
+duoshuo_shortname:    ## e.g. wuchong   your duoshuo short name.
+disqus_shortname:     ## e.g. wuchong   your disqus short name: www-patpat-site
+gentie_key:           ## your 163 gentie key, see https://gentie.163.com/
+changyan_appid: cytXTSPL9      ## changyan app id, see http://changyan.kuaizhan.com/
+changyan_appkey: a0135f2f70c0d97fa29e5732132058ec     ## changyan app key, see http://changyan.kuaizhan.com/
 
 #### Share button
 jiathis:
